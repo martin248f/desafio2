@@ -1,27 +1,23 @@
-# Prueba1
+# Desafio 2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+Aplicacion delivery utilizando Bootstrap
 
-## Development server
+## Estructura
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Se crea aplicacion basica de angular con configuracion de bootstrap para los estilos
 
-## Code scaffolding
+## Componentes
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Se crean 5 componentes con sus respectivas rutas (header, bebidas, hamburguesas, helados y medios de pago)
 
-## Build
+## Bootstrap
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para el header utilizo una plantilla de https://getbootstrap.com/docs/5.1/content/figures/ y la modifico
 
-## Running unit tests
+Para los componentes bebidas helados y hamburguesas utilizo plantillas de https://getbootstrap.com/docs/5.1/components/card/ y las modifico
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Para el componente medios de pago utilizo plantilla https://getbootstrap.com/docs/5.1/components/list-group/ y la modifico
 
-## Running end-to-end tests
+Las imagenes son de https://www.flaticon.es/
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
